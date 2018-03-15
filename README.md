@@ -7,6 +7,6 @@ hola me llamo Mario Sanchez Gonzalez xd lol njabsjbdñSXaCzkxnkñ,mncsa kjz,mc
 
 Esto es una tienda que vendemos
 
-#Esto no es una tienda
+##Esto no es una tienda
 
 Guarderia
